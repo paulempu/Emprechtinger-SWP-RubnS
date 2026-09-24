@@ -1,0 +1,7 @@
+Prompts:
+
+Lass uns in diesem chat simple python syntax kontrollstrukturen üben(if, schleifen, break, pass, try-except) 
+je ein beispiel. Fokus liegt darauf das ich selbst den code schreibe von dir will ich nur den leitfaden haben.
+
+Erkläre mir vor den einzelnen aufgaben die grundstruktur der jeweiligen aufgabe und
+gebe mir eine kurze aufgabe um die kontrollstrukturen gut zu üben
