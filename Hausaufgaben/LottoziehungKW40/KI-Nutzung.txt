@@ -1,0 +1,17 @@
+KI-Nutzung - Lottoziehung
+
+KI: Claude (in VS Code), als Tutor verwendet. Den Code habe ich selbst geschrieben.
+
+Wie ich die KI genutzt habe:
+- Am Anfang festgelegt, dass mir die KI keine fertige Lösung schreibt, sondern Schritt für
+  Schritt erklärt, was ich brauche, und mir kleine Aufgaben gibt.
+- Nach jedem Schritt meinen Code kontrollieren lassen. Bei Fehlern habe ich nur einen Hinweis
+  bekommen und den Fehler dann selbst ausgebessert.
+- Nachgefragt, wie das Tauschen funktioniert, weil ich es zuerst nicht verstanden habe
+  (statt pop/append wie bei Mitschülern).
+- Nachgefragt, warum der Bereich kleiner werden muss, weil mein Programm zuerst nur scheinbar
+  funktioniert hat.
+- Nachgefragt, warum die Methode etwas zurückgeben soll, obwohl die Liste als Parameter
+  übergeben wird.
+- Erklären lassen, wie man ein Dictionary mit .items() und einem f-String ausgibt.
+- Am Schluss die KI-Nutzung und die Word-Doku nach meinen Vorgaben erstellen lassen.
